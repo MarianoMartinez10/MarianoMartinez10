@@ -8,17 +8,16 @@
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 About Me
 
-- 💼 Trabajo en **DITEC, Municipalidad de San Miguel de Tucumán**
-- ⚙️ Desarrollo sistemas web administrativos con **React**, **Node.js** y **MySQL**
-- 🧪 Formación certificada en **QA Automation** — Cypress · Selenium · Appium
-- 🌱 Actualmente cursando la **Tecnicatura en Programación en UTN**
-- 🚀 Busco crecer en equipos donde pueda aportar tanto en desarrollo como en testing
+- ⚙️ Building web systems with **React**, **Node.js** and **MySQL**
+- 🧪 Certified training in **QA Automation** — Cypress · Selenium · Appium
+- 🌱 Currently studying **Programming at UTN**
+- 🚀 Looking to grow in teams where I can contribute both in development and testing
 
 ---
 
-### 🎯 Tecnologías que uso
+### 🎯 Tech Stack
 
 **Frontend**
 
@@ -34,7 +33,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 
-**Bases de datos**
+**Databases**
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -47,14 +46,14 @@
 [![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white)](https://appium.io/)
 [![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
 
-**Herramientas**
+**Tools**
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ---
 
-### 📫 Contacto
+### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nanomartinez/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanomartinezbm@gmail.com)
